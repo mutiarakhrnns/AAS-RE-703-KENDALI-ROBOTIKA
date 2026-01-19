@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: jazzy-bot-sim
+Version: 1.0.0
+Summary: Autonomous robot simulation with FSM controller for ROS 2 Jazzy and Gazebo Harmonic
+Maintainer: Your Name
+Maintainer-email: your.email@example.com
+License: Apache-2.0

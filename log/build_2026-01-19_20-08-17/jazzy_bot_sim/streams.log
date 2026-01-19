@@ -1,0 +1,22 @@
+[0.664s] Invoking command in '/home/rusaven/fsm_ws/src/jazzy_bot_sim': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rusaven/fsm_ws/build/jazzy_bot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jazzy_bot_sim build --build-base /home/rusaven/fsm_ws/build/jazzy_bot_sim/build install --record /home/rusaven/fsm_ws/build/jazzy_bot_sim/install.log --single-version-externally-managed install_data
+[0.833s] running egg_info
+[0.844s] writing ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/PKG-INFO
+[0.844s] writing dependency_links to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/dependency_links.txt
+[0.844s] writing entry points to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/entry_points.txt
+[0.844s] writing requirements to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/requires.txt
+[0.844s] writing top-level names to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/top_level.txt
+[0.867s] reading manifest file '../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/SOURCES.txt'
+[0.867s] writing manifest file '../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/SOURCES.txt'
+[0.867s] running build
+[0.867s] running build_py
+[0.868s] running install
+[0.872s] running install_lib
+[0.883s] running install_data
+[0.883s] copying config/bridge.yaml -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/config
+[0.883s] running install_egg_info
+[0.895s] removing '/home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim-1.0.0-py3.12.egg-info' (and everything under it)
+[0.895s] Copying ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info to /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim-1.0.0-py3.12.egg-info
+[0.896s] running install_scripts
+[0.973s] Installing fsm_node script to /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/jazzy_bot_sim
+[0.973s] writing list of installed files to '/home/rusaven/fsm_ws/build/jazzy_bot_sim/install.log'
+[0.991s] Invoked command in '/home/rusaven/fsm_ws/src/jazzy_bot_sim' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rusaven/fsm_ws/build/jazzy_bot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/jazzy_bot_sim build --build-base /home/rusaven/fsm_ws/build/jazzy_bot_sim/build install --record /home/rusaven/fsm_ws/build/jazzy_bot_sim/install.log --single-version-externally-managed install_data

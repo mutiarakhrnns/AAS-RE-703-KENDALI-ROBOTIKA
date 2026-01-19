@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info
+writing ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/entry_points.txt
+writing requirements to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/requires.txt
+writing top-level names to ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/top_level.txt
+writing manifest file '../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rusaven/fsm_ws/build/jazzy_bot_sim/build
+creating /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib
+creating /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib/jazzy_bot_sim
+copying jazzy_bot_sim/__init__.py -> /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib/jazzy_bot_sim
+copying jazzy_bot_sim/fsm_node.py -> /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib/jazzy_bot_sim
+running install
+running install_lib
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim
+copying /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib/jazzy_bot_sim/__init__.py -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim
+copying /home/rusaven/fsm_ws/build/jazzy_bot_sim/build/lib/jazzy_bot_sim/fsm_node.py -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim
+byte-compiling /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim/fsm_node.py to fsm_node.cpython-312.pyc
+running install_data
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/ament_index
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/ament_index/resource_index
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/ament_index/resource_index/packages
+copying resource/jazzy_bot_sim -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/launch
+copying launch/sim_launch.py -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/launch
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/urdf
+copying urdf/jazzy_bot.urdf.xacro -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/urdf
+creating /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/worlds
+copying worlds/empty.sdf -> /home/rusaven/fsm_ws/install/jazzy_bot_sim/share/jazzy_bot_sim/worlds
+running install_egg_info
+Copying ../../build/jazzy_bot_sim/jazzy_bot_sim.egg-info to /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/python3.12/site-packages/jazzy_bot_sim-0.0.1-py3.12.egg-info
+running install_scripts
+Installing fsm_node script to /home/rusaven/fsm_ws/install/jazzy_bot_sim/lib/jazzy_bot_sim
+writing list of installed files to '/home/rusaven/fsm_ws/build/jazzy_bot_sim/install.log'

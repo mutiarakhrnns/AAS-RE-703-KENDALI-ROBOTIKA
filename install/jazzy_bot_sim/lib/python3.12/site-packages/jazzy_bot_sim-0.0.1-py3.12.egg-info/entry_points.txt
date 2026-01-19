@@ -1,0 +1,2 @@
+[console_scripts]
+fsm_node = jazzy_bot_sim.fsm_node:main
